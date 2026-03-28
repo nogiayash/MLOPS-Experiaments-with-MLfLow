@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593437970249842769/aca5d68a78464e80a11a81901b104b11/artifacts
+end_time: 1774684670014
+entry_point_name: ''
+experiment_id: '593437970249842769'
+lifecycle_stage: active
+run_id: aca5d68a78464e80a11a81901b104b11
+run_name: upset-fly-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774684644885
+status: 3
+tags: []
+user_id: india

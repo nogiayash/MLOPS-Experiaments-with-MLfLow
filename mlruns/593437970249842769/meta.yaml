@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/593437970249842769
+creation_time: 1774683391486
+experiment_id: '593437970249842769'
+last_update_time: 1774683391486
+lifecycle_stage: active
+name: MLOPS-Exp1
+workspace: default

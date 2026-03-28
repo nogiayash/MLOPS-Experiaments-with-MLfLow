@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593437970249842769/ad8d3547cf074360848d7038375ea764/artifacts
+end_time: 1774683598174
+entry_point_name: ''
+experiment_id: '593437970249842769'
+lifecycle_stage: active
+run_id: ad8d3547cf074360848d7038375ea764
+run_name: bouncy-hare-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774683596071
+status: 3
+tags: []
+user_id: india
