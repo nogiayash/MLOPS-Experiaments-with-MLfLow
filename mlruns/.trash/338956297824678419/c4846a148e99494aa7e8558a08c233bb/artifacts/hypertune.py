@@ -37,7 +37,7 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 # # Till here
 
 
-mlflow.set_experiment('breast-cancer')
+mlflow.set_experiment('breast-cancer-rf-hp')
 
 with mlflow.start_run() as parent:
     grid_search.fit(X_train, y_train)
@@ -80,7 +80,7 @@ with mlflow.start_run() as parent:
     mlflow.sklearn.log_model(grid_search.best_estimator_, "random_forest")
 
     # Set tags
-    mlflow.set_tag("author", "Yash Nogia")
+    mlflow.set_tag("author", "Vikash Das")
 
     print(best_params)
     print(best_score)

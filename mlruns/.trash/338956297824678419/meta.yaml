@@ -1,0 +1,8 @@
+artifact_location: file:///F:/Data%20Analyst/ML%20Ops/MLOPS-Experiaments-with-MLfLow/mlruns/338956297824678419
+creation_time: 1774754173557
+experiment_id: '338956297824678419'
+last_update_time: 1774754316471
+lifecycle_stage: deleted
+name: breast-cancer-rf-hp
+tags: {}
+workspace: default

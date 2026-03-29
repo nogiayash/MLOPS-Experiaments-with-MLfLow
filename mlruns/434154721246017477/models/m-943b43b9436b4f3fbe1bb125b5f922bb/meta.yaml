@@ -1,0 +1,10 @@
+artifact_location: file:///F:/Data%20Analyst/ML%20Ops/MLOPS-Experiaments-with-MLfLow/mlruns/434154721246017477/models/m-943b43b9436b4f3fbe1bb125b5f922bb/artifacts
+creation_timestamp: 1774754718980
+experiment_id: '434154721246017477'
+last_updated_timestamp: 1774754730214
+model_id: m-943b43b9436b4f3fbe1bb125b5f922bb
+model_type: null
+name: random_forest
+source_run_id: 61accbfa100a4257ba41a4862b14e4e3
+status: 2
+status_message: null
